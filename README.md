@@ -1,7 +1,5 @@
 # Docker Gradle
 
-[![Build Status](https://travis-ci.org/UKHomeOffice/docker-python.svg?branch=master)](https://travis-ci.org/UKHomeOffice/docker-python)
-
 This is a docker python image with pip installed
 
 ## Getting Started
